@@ -15,3 +15,4 @@ class Sphere:
         self.x, self.y, self.z = x, y, z
     def is_point_inside_(self, x, y, z):
         return (x**2 + y**2 + z **2) < self.radius**2
+https://www.youtube.com/watch?v=mvqUu2fZixI&ab_channel=IssaBreh
